@@ -1,0 +1,16 @@
+C:\Users\sumey\source\repos\final\final\bin\Debug\final.exe.config
+C:\Users\sumey\source\repos\final\final\bin\Debug\final.exe
+C:\Users\sumey\source\repos\final\final\bin\Debug\final.pdb
+C:\Users\sumey\source\repos\final\final\obj\Debug\final.csproj.AssemblyReference.cache
+C:\Users\sumey\source\repos\final\final\obj\Debug\final.Form1.resources
+C:\Users\sumey\source\repos\final\final\obj\Debug\final.Properties.Resources.resources
+C:\Users\sumey\source\repos\final\final\obj\Debug\final.csproj.GenerateResource.cache
+C:\Users\sumey\source\repos\final\final\obj\Debug\final.csproj.CoreCompileInputs.cache
+C:\Users\sumey\source\repos\final\final\obj\Debug\final.exe
+C:\Users\sumey\source\repos\final\final\obj\Debug\final.pdb
+C:\Users\sumey\source\repos\final\final\obj\Debug\final.SayiTahmini.resources
+C:\Users\sumey\source\repos\final\final\obj\Debug\final.Kronometre.resources
+C:\Users\sumey\source\repos\final\final\obj\Debug\final.NesneleriHareketEttirme.resources
+C:\Users\sumey\source\repos\final\final\obj\Debug\final.KoselereCarpma.resources
+C:\Users\sumey\source\repos\final\final\obj\Debug\final.SepetleMeyveYakalama.resources
+C:\Users\sumey\source\repos\final\final\obj\Debug\final.HesapMakinesi.resources
